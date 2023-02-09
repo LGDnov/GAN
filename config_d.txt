@@ -1,0 +1,4 @@
+name = dimonds
+num_epochs = 100
+data_train = unzipped_directory/afhq/train/
+image_size = 64
