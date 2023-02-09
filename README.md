@@ -16,6 +16,14 @@ GANs have a number of advantages over traditional image generation algorithms. G
 
 ![Gift](https://github.com/LGDnov/GAN/blob/main/gif/gif.gif)
 
+# Generator
+
+[Some title here](https://github.com/LGDnov/GAN/blob/main/pdf/NetG.pdf)
+
+# Discriminator
+
+[Some title here](https://github.com/LGDnov/GAN/blob/main/pdf/NetD.pdf)
+
 # Conclusion
 
 Generative Adversarial Networks (GANs) are a powerful deep learning architecture that has been used to generate realistic images of animals. GANs use two competing networks, a generator and a discriminator, to generate realistic images of animals. Through this adversarial process, GANs are able to generate highly realistic images of animals. GANs have the potential to revolutionize image generation, and can be used to generate synthetic biological data for training machine learning algorithms.
